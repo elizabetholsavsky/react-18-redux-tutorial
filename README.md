@@ -4,6 +4,10 @@
 
 [React](https://react.dev/)
 
+[Create React App](https://create-react-app.dev/)
+
+[Vite](https://vitejs.dev/)
+
 Source Code:
 * [React Tutorial](https://github.com/john-smilga/react-course-v3)
 * [Redux Toolkit](https://github.com/john-smilga/redux-toolkit-tutorial)
