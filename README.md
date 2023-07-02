@@ -8,6 +8,10 @@
 
 [Vite](https://vitejs.dev/)
 
+[VS Code ES7+ React/Redux/React-Native/JS snippets](https://github.com/ults-io/vscode-react-javascript-snippets)
+* [Snippets](https://github.com/ults-io/vscode-react-javascript-snippets/blob/master/docs/Snippets.md)
+* `rafce` arrow function with export
+
 Source Code:
 * [React Tutorial](https://github.com/john-smilga/react-course-v3)
 * [Redux Toolkit](https://github.com/john-smilga/redux-toolkit-tutorial)
