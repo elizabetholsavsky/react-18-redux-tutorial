@@ -21,9 +21,13 @@
 
 * [Vite](https://vitejs.dev/)
    * npm 7+, extra double-dash is needed:
-     ```npm create vite@latest app-name -- --template react
-        npm install
-        npm run dev```
+     
+     `npm create vite@latest app-name -- --template react`
+     
+     `npm install`
+     
+     `npm run dev`
+     
    * [http://localhost:5173/](http://localhost:5173/)
    * need to use `.jsx` extension
    * index.html in the source instead of public (assets still in public)
