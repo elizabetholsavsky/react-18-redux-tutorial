@@ -20,8 +20,15 @@
 * [Create React App](https://create-react-app.dev/)
 
 * [Vite](https://vitejs.dev/)
-   * npm 7+, extra double-dash is needed: `$ npm create vite@latest my-react-app -- --template react`
+   * npm 7+, extra double-dash is needed:
+     ```npm create vite@latest app-name -- --template react
+        npm install
+        npm run dev```
    * [http://localhost:5173/](http://localhost:5173/)
+   * need to use `.jsx` extension
+   * index.html in the source instead of public (assets still in public)
+   * use `main.jsx` instead of `index.js`
+   * to spin up dev server `npm run dev`
 
  **Deploy:**
 
