@@ -1,5 +1,5 @@
 # React 18 with Redux Toolkit Tutorial
--[John Smilga](https://github.com/john-smilga) & Free Code Camp
+-[John Smilga](https://github.com/john-smilga) & [Free Code Camp](https://github.com/freeCodeCamp)
 
 [Learn React 18 with Redux Toolkit – Full Tutorial for Beginners](https://www.youtube.com/watch?v=2-crBg6wpp0&t=1)
 
