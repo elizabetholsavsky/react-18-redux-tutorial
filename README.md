@@ -1,4 +1,8 @@
-# React 18 with Redux Toolkit Tutorial
+<div align="center">
+  
+  # React 18 with Redux Toolkit Tutorial
+
+</div>
 
 [Learn React 18 with Redux Toolkit – Full Tutorial for Beginners](https://www.youtube.com/watch?v=2-crBg6wpp0&t=1)
 
